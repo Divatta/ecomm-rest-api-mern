@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* css */
+
+.table {
+  border-spacing: 0;
+}
+
+.table th,td{
+  padding: 0;
+  width: 10%;
+}
+i.bi{
+  cursor: pointer;
+}
+
+nav{
+  background-color: #84A98C;
+}
+.login{
+  border: #d7f4dd;
+ 
+}
+.login1{
+  /* background-color: #d7f4dd; */
+  background: linear-gradient(to bottom ,#d7f4dd,#84A98C );
+}
+.log{
+  box-shadow: 10px 20px 18px   #84A98C;
+}
+/* .colshadow{
+  box-shadow: 3px 3px 9px  black;
+} */
